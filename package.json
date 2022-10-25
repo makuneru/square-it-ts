@@ -1,0 +1,26 @@
+{
+  "name": "square-it-ts",
+  "version": "1.0.2",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makuneru/square-it-ts.git"
+  },
+  "keywords": [
+    "maku",
+    "square"
+  ],
+  "author": "makuneru",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
